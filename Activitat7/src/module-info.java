@@ -1,0 +1,2 @@
+module Activitat7 {
+}
